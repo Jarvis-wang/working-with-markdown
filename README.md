@@ -71,7 +71,7 @@ Images look like links with an ! in front, for example, an external image can be
 
 You can also upload an image into your repo. 
 
-![vscode image](https://github.com/profcase/working-with-markdown/blob/master/vscode.PNG "Example local image")
+![vscode image](https://spectratherapies.com/wp-content/uploads/2017/06/LSS-Autism-Acceptance.jpg)
 
 ## Paragraphs
 
